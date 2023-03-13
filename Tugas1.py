@@ -1,5 +1,0 @@
-print("Nama = Raisa Azzahra")
-print("NIM = I0322103")
-print("Asal daerah = Tanjungpinang,Kepri")
-print("Tanjungpinang adalah kota kecil di pulau Sumatera yang terletak di dekat kota Batam dan berseberangan dengan Negara Singapura dan Malaysia. Tanjungpinang dikelilingi oleh lautan sehingga banyak pantai. Oleh karena itu, ikan tidak sulit dicari dan nelayan menjadi mata pencaharian utama penduduk.")
-print("Sebagai lulusan teknik industri saya ingin bekerja di suatu pabrik atau industri manufaktur terbaik di Indonesia contohnya seperti PT. Astra Internasional Tbk, PT. Gudang Garam Tbk, dan PT Semen Indonesia")
